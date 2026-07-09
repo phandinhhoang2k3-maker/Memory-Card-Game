@@ -1,0 +1,59 @@
+# 🧠 Memory Card Game
+
+A simple Memory Card Game built with **HTML, CSS and JavaScript**.
+
+## 🎮 Features
+
+- Flip cards
+- Match two identical cards
+- Move counter
+- Timer
+- Restart game
+- Win notification
+- Responsive design
+
+## 🛠 Technologies
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📂 Project Structure
+
+```
+Memory-Card-Game/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── apple.png
+│   ├── banana.png
+│   ├── cat.png
+│   ├── dog.png
+│   ├── lion.png
+│   ├── panda.png
+│   ├── tiger.png
+│   └── frog.png
+└── README.md
+```
+
+## 🎯 How to Play
+
+1. Click a card to flip it.
+2. Flip another card.
+3. If both cards match, they stay open.
+4. If they don't match, they flip back after one second.
+5. Match all pairs to win.
+
+## 🚀 Future Improvements
+
+- Difficulty levels
+- Sound effects
+- Dark mode
+- High score (Local Storage)
+- Better animations
+
+## 👨‍💻 Author
+
+Phan Hoang
